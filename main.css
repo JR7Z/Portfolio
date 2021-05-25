@@ -167,6 +167,7 @@ header::before {
     top: 0%;
     width: 100%;
     background-color: rgb(19, 19, 19);
+    z-index: 99;
 }
 .bar ul{
     display: inline-flex;
